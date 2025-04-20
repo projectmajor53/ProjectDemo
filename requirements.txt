@@ -1,0 +1,8 @@
+torch
+torchvision
+clip
+opencv-python
+scikit-learn
+Pillow
+tqdm
+matplotlib
